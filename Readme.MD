@@ -1,4 +1,4 @@
-# LUMÉ — Interior Design Studio
+# LUMÉ - Interior Design Studio
 
 A premium interior design website created as part of my AUSPI internship project.
 
@@ -22,14 +22,14 @@ The website presents:
 
 The visual identity follows a Modern Atelier aesthetic:
 
-- Warm Beige — #F5EBE6
-- Obsidian Black — #1E1E1E
-- Muted Rose/Taupe — #C8B0A6
+- Warm Beige - #F5EBE6
+- Obsidian Black - #1E1E1E
+- Muted Rose/Taupe - #C8B0A6
 
 ### Typography
 
-- Cormorant Garamond — Display / editorial typography
-- Inter — Body and UI typography
+- Cormorant Garamond - Display / editorial typography
+- Inter - Body and UI typography
 
 ## Built With
 
